@@ -1,0 +1,4 @@
+Walter Melon     melon@email.msmary.edu     301-555-3141
+Jack Lack     lack@email.com     301-478-622
+John Victor     jvict@email.com     301-689-123
+David Wayne     dawayne@email.com     301-572-483
